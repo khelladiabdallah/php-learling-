@@ -7,5 +7,6 @@
 </head>
 <body>
     khelladi abdallah 
+    <?php echo khelladi abdallah ?>
 </body>
 </html>
