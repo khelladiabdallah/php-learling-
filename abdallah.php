@@ -18,6 +18,7 @@ $name="abdallah ";
 
 // NOWDOC → rarement utilisé, surtout pour texte brut
 
+prit
   
 
  
